@@ -1,0 +1,904 @@
+01:17:38 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:17:43 AM Log:  (..\src\http\http.cpp:44) CURL_INITD
+01:17:43 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:17:44 AM Lua: [BLT] Setup...
+01:17:44 AM Lua: [BLT] Loading module: 	BLTLogs
+01:17:44 AM Lua: [BLT] Loading module: 	BLTModManager
+01:17:44 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:17:44 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:17:44 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:17:44 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:17:44 AM Lua: [BLT] Removing log:	2018_10_06_log.txt
+01:17:44 AM Lua: [BLT] Loading mods for state: table: 0x001c8b40
+01:17:44 AM Lua: [BLT] Loading mod: base
+01:17:44 AM Lua: [BLT] Loading mod: WolfHUD
+01:17:44 AM Lua: [BLT] Setting up mod: 	base
+01:17:44 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:17:44 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:17:44 AM Lua: [BLT] Setup...
+01:17:44 AM Lua: [BLT] Loading module: 	BLTLogs
+01:17:44 AM Lua: [BLT] Loading module: 	BLTModManager
+01:17:44 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:17:44 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:17:44 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:17:44 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:17:44 AM Lua: [BLT] Loading mods for state: table: 0x001c8b20
+01:17:44 AM Lua: [BLT] Loading mod: base
+01:17:44 AM Lua: [BLT] Loading mod: WolfHUD
+01:17:44 AM Lua: [BLT] Setting up mod: 	base
+01:17:44 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:17:45 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:17:45 AM Lua: [BLT] Setup...
+01:17:45 AM Lua: [BLT] Loading module: 	BLTLogs
+01:17:45 AM Lua: [BLT] Loading module: 	BLTModManager
+01:17:45 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:17:45 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:17:45 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:17:45 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:17:45 AM Lua: [BLT] Loading mods for state: table: 0x2c94c340
+01:17:45 AM Lua: [BLT] Loading mod: base
+01:17:45 AM Lua: [BLT] Loading mod: WolfHUD
+01:17:45 AM Lua: [BLT] Setting up mod: 	base
+01:17:45 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:18:02 AM Lua: [1] SYSTEM: Fiji 失恋 is joining.
+01:18:03 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:18:03 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=payday2blt - 2126
+01:18:03 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:18:03 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:18:03 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=payday2bltdll - 2121
+01:18:03 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:18:03 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:18:03 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=wolfhud - 2124
+01:18:03 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:18:03 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:18:03 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=wolfhud_textures - 2125
+01:18:03 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:18:03 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:18:03 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=fed_inv - 2122
+01:18:03 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:18:03 AM Lua: [Updates] Received update data for 'fed_inv'
+01:18:09 AM Lua: [Updates] Comparing hash data:
+Server: 59b28eff2e093eddfe0df3039ff6f936fb263a7034f6e4d424f29993e2567189
+ Local: 59b28eff2e093eddfe0df3039ff6f936fb263a7034f6e4d424f29993e2567189
+01:18:09 AM Lua: [Updates] Received update data for 'wolfhud'
+01:18:09 AM Lua: [Updates] Comparing hash data:
+Server: nil
+ Local: 295820a39c47a01fc07ba788a62705a18a5df3743041c4e1f6122953a6fde913
+01:18:09 AM Lua: [Updates] Received update data for 'payday2blt'
+01:18:10 AM Lua: [Updates] Comparing hash data:
+Server: dd606e7e10e0d02d3527b6d38ca6f4d2aa58910d56d81753b16b808ae859244a
+ Local: dd606e7e10e0d02d3527b6d38ca6f4d2aa58910d56d81753b16b808ae859244a
+01:18:10 AM Lua: [Updates] Received update data for 'wolfhud_textures'
+01:18:10 AM Lua: [Updates] Comparing hash data:
+Server: f90cba4e248e477d91652d6057df675789db0e1748fc845c5f4132d706b5bd3a
+ Local: f90cba4e248e477d91652d6057df675789db0e1748fc845c5f4132d706b5bd3a
+01:18:10 AM Lua: [Updates] Received update data for 'payday2bltdll'
+01:18:10 AM Lua: [Updates] Comparing hash data:
+Server: 4f7bd43c1dd3d7ce856d3182e6f971980d0c59aeb3b17231eb9c2f3b5cf3a545
+ Local: 4f7bd43c1dd3d7ce856d3182e6f971980d0c59aeb3b17231eb9c2f3b5cf3a545
+01:19:10 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:19:10 AM Lua: [BLT] Setup...
+01:19:10 AM Lua: [BLT] Loading module: 	BLTLogs
+01:19:10 AM Lua: [BLT] Loading module: 	BLTModManager
+01:19:10 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:19:10 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:19:10 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:19:10 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:19:10 AM Lua: [BLT] Loading mods for state: table: 0x2c22c6e0
+01:19:10 AM Lua: [BLT] Loading mod: base
+01:19:10 AM Lua: [BLT] Loading mod: WolfHUD
+01:19:10 AM Lua: [BLT] Setting up mod: 	base
+01:19:10 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:19:10 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:19:10 AM Lua: [BLT] Setup...
+01:19:10 AM Lua: [BLT] Loading module: 	BLTLogs
+01:19:10 AM Lua: [BLT] Loading module: 	BLTModManager
+01:19:10 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:19:10 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:19:10 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:19:10 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:19:10 AM Lua: [BLT] Loading mods for state: table: 0x48acdd00
+01:19:10 AM Lua: [BLT] Loading mod: base
+01:19:10 AM Lua: [BLT] Loading mod: WolfHUD
+01:19:10 AM Lua: [BLT] Setting up mod: 	base
+01:19:10 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:19:10 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:19:10 AM Lua: [BLT] Setup...
+01:19:10 AM Lua: [BLT] Loading module: 	BLTLogs
+01:19:10 AM Lua: [BLT] Loading module: 	BLTModManager
+01:19:10 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:19:10 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:19:10 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:19:10 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:19:10 AM Lua: [BLT] Loading mods for state: table: 0x2d177e80
+01:19:10 AM Lua: [BLT] Loading mod: base
+01:19:10 AM Lua: [BLT] Loading mod: WolfHUD
+01:19:10 AM Lua: [BLT] Setting up mod: 	base
+01:19:10 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:19:59 AM Lua: [1] Nylux: combien ?
+01:20:04 AM Lua: [1] Fiji 失恋: 1/4
+01:20:06 AM Lua: [1] Nylux: ez
+01:21:09 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+01:21:10 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+01:21:11 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+01:21:12 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+01:21:13 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+01:21:14 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+01:21:14 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:21:14 AM Lua: [BLT] Setup...
+01:21:14 AM Lua: [BLT] Loading module: 	BLTLogs
+01:21:14 AM Lua: [BLT] Loading module: 	BLTModManager
+01:21:14 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:21:14 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:21:14 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:21:14 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:21:14 AM Lua: [BLT] Loading mods for state: table: 0x2b55b900
+01:21:14 AM Lua: [BLT] Loading mod: base
+01:21:14 AM Lua: [BLT] Loading mod: WolfHUD
+01:21:14 AM Lua: [BLT] Setting up mod: 	base
+01:21:14 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:21:15 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:21:15 AM Lua: [BLT] Setup...
+01:21:15 AM Lua: [BLT] Loading module: 	BLTLogs
+01:21:15 AM Lua: [BLT] Loading module: 	BLTModManager
+01:21:15 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:21:15 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:21:15 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:21:15 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:21:15 AM Lua: [BLT] Loading mods for state: table: 0x2c21e860
+01:21:15 AM Lua: [BLT] Loading mod: base
+01:21:15 AM Lua: [BLT] Loading mod: WolfHUD
+01:21:15 AM Lua: [BLT] Setting up mod: 	base
+01:21:15 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:21:15 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:21:15 AM Lua: [BLT] Setup...
+01:21:15 AM Lua: [BLT] Loading module: 	BLTLogs
+01:21:15 AM Lua: [BLT] Loading module: 	BLTModManager
+01:21:15 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:21:15 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:21:15 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:21:15 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:21:15 AM Lua: [BLT] Loading mods for state: table: 0x262b55c0
+01:21:15 AM Lua: [BLT] Loading mod: base
+01:21:15 AM Lua: [BLT] Loading mod: WolfHUD
+01:21:15 AM Lua: [BLT] Setting up mod: 	base
+01:21:15 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:31:01 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:31:01 AM Lua: [BLT] Setup...
+01:31:01 AM Lua: [BLT] Loading module: 	BLTLogs
+01:31:01 AM Lua: [BLT] Loading module: 	BLTModManager
+01:31:01 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:31:01 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:31:01 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:31:01 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:31:01 AM Lua: [BLT] Loading mods for state: table: 0x2d1fb900
+01:31:01 AM Lua: [BLT] Loading mod: base
+01:31:01 AM Lua: [BLT] Loading mod: WolfHUD
+01:31:01 AM Lua: [BLT] Setting up mod: 	base
+01:31:01 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:31:01 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:31:01 AM Lua: [BLT] Setup...
+01:31:01 AM Lua: [BLT] Loading module: 	BLTLogs
+01:31:01 AM Lua: [BLT] Loading module: 	BLTModManager
+01:31:01 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:31:01 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:31:01 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:31:01 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:31:01 AM Lua: [BLT] Loading mods for state: table: 0x2d22bf60
+01:31:01 AM Lua: [BLT] Loading mod: base
+01:31:01 AM Lua: [BLT] Loading mod: WolfHUD
+01:31:01 AM Lua: [BLT] Setting up mod: 	base
+01:31:01 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:31:01 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:31:01 AM Lua: [BLT] Setup...
+01:31:01 AM Lua: [BLT] Loading module: 	BLTLogs
+01:31:01 AM Lua: [BLT] Loading module: 	BLTModManager
+01:31:01 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:31:01 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:31:01 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:31:01 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:31:01 AM Lua: [BLT] Loading mods for state: table: 0x521efc80
+01:31:01 AM Lua: [BLT] Loading mod: base
+01:31:01 AM Lua: [BLT] Loading mod: WolfHUD
+01:31:01 AM Lua: [BLT] Setting up mod: 	base
+01:31:01 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:31:04 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:31:04 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=payday2blt - 7276
+01:31:04 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:31:04 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:31:04 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=payday2bltdll - 8060
+01:31:04 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:31:04 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:31:04 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=wolfhud - 7322
+01:31:04 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:31:04 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:31:04 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=wolfhud_textures - 798
+01:31:04 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:31:04 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:31:04 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=fed_inv - 8865
+01:31:04 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:31:05 AM Lua: [Updates] Received update data for 'fed_inv'
+01:31:07 AM Lua: [Updates] Comparing hash data:
+Server: 59b28eff2e093eddfe0df3039ff6f936fb263a7034f6e4d424f29993e2567189
+ Local: 59b28eff2e093eddfe0df3039ff6f936fb263a7034f6e4d424f29993e2567189
+01:31:07 AM Lua: [Updates] Received update data for 'payday2blt'
+01:31:07 AM Lua: [Updates] Comparing hash data:
+Server: dd606e7e10e0d02d3527b6d38ca6f4d2aa58910d56d81753b16b808ae859244a
+ Local: dd606e7e10e0d02d3527b6d38ca6f4d2aa58910d56d81753b16b808ae859244a
+01:31:07 AM Lua: [Updates] Received update data for 'payday2bltdll'
+01:31:07 AM Lua: [Updates] Comparing hash data:
+Server: 4f7bd43c1dd3d7ce856d3182e6f971980d0c59aeb3b17231eb9c2f3b5cf3a545
+ Local: 4f7bd43c1dd3d7ce856d3182e6f971980d0c59aeb3b17231eb9c2f3b5cf3a545
+01:31:07 AM Lua: [Updates] Received update data for 'wolfhud'
+01:31:07 AM Lua: [Updates] Comparing hash data:
+Server: nil
+ Local: 295820a39c47a01fc07ba788a62705a18a5df3743041c4e1f6122953a6fde913
+01:31:07 AM Lua: [Updates] Received update data for 'wolfhud_textures'
+01:31:07 AM Lua: [Updates] Comparing hash data:
+Server: f90cba4e248e477d91652d6057df675789db0e1748fc845c5f4132d706b5bd3a
+ Local: f90cba4e248e477d91652d6057df675789db0e1748fc845c5f4132d706b5bd3a
+01:39:30 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:39:30 AM Lua: [BLT] Setup...
+01:39:30 AM Lua: [BLT] Loading module: 	BLTLogs
+01:39:30 AM Lua: [BLT] Loading module: 	BLTModManager
+01:39:30 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:39:30 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:39:30 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:39:30 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:39:30 AM Lua: [BLT] Loading mods for state: table: 0x2c41fa40
+01:39:30 AM Lua: [BLT] Loading mod: base
+01:39:30 AM Lua: [BLT] Loading mod: WolfHUD
+01:39:30 AM Lua: [BLT] Setting up mod: 	base
+01:39:30 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:39:30 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:39:30 AM Lua: [BLT] Setup...
+01:39:30 AM Lua: [BLT] Loading module: 	BLTLogs
+01:39:30 AM Lua: [BLT] Loading module: 	BLTModManager
+01:39:30 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:39:30 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:39:30 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:39:30 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:39:30 AM Lua: [BLT] Loading mods for state: table: 0x2ca52840
+01:39:30 AM Lua: [BLT] Loading mod: base
+01:39:30 AM Lua: [BLT] Loading mod: WolfHUD
+01:39:30 AM Lua: [BLT] Setting up mod: 	base
+01:39:30 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:39:31 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:39:31 AM Lua: [BLT] Setup...
+01:39:31 AM Lua: [BLT] Loading module: 	BLTLogs
+01:39:31 AM Lua: [BLT] Loading module: 	BLTModManager
+01:39:31 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:39:31 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:39:31 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:39:31 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:39:31 AM Lua: [BLT] Loading mods for state: table: 0x2cfb1b20
+01:39:31 AM Lua: [BLT] Loading mod: base
+01:39:31 AM Lua: [BLT] Loading mod: WolfHUD
+01:39:31 AM Lua: [BLT] Setting up mod: 	base
+01:39:31 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:39:45 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+01:39:45 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Additional Cameras.
+01:42:18 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+01:42:19 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+01:42:20 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+01:42:21 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+01:42:22 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+01:42:23 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+01:42:24 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:42:24 AM Lua: [BLT] Setup...
+01:42:24 AM Lua: [BLT] Loading module: 	BLTLogs
+01:42:24 AM Lua: [BLT] Loading module: 	BLTModManager
+01:42:24 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:42:24 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:42:24 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:42:24 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:42:24 AM Lua: [BLT] Loading mods for state: table: 0x2bfc15e0
+01:42:24 AM Lua: [BLT] Loading mod: base
+01:42:24 AM Lua: [BLT] Loading mod: WolfHUD
+01:42:24 AM Lua: [BLT] Setting up mod: 	base
+01:42:24 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:42:24 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:42:24 AM Lua: [BLT] Setup...
+01:42:24 AM Lua: [BLT] Loading module: 	BLTLogs
+01:42:24 AM Lua: [BLT] Loading module: 	BLTModManager
+01:42:24 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:42:24 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:42:24 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:42:24 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:42:24 AM Lua: [BLT] Loading mods for state: table: 0x2ce09400
+01:42:24 AM Lua: [BLT] Loading mod: base
+01:42:24 AM Lua: [BLT] Loading mod: WolfHUD
+01:42:24 AM Lua: [BLT] Setting up mod: 	base
+01:42:24 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:42:24 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:42:24 AM Lua: [BLT] Setup...
+01:42:24 AM Lua: [BLT] Loading module: 	BLTLogs
+01:42:24 AM Lua: [BLT] Loading module: 	BLTModManager
+01:42:24 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:42:24 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:42:24 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:42:24 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:42:24 AM Lua: [BLT] Loading mods for state: table: 0x51f0ee40
+01:42:24 AM Lua: [BLT] Loading mod: base
+01:42:24 AM Lua: [BLT] Loading mod: WolfHUD
+01:42:24 AM Lua: [BLT] Setting up mod: 	base
+01:42:24 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:42:35 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+01:42:35 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Additional Cameras.
+01:48:10 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:48:10 AM Lua: [BLT] Setup...
+01:48:10 AM Lua: [BLT] Loading module: 	BLTLogs
+01:48:10 AM Lua: [BLT] Loading module: 	BLTModManager
+01:48:10 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:48:10 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:48:10 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:48:10 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:48:10 AM Lua: [BLT] Loading mods for state: table: 0x46e94dc0
+01:48:10 AM Lua: [BLT] Loading mod: base
+01:48:10 AM Lua: [BLT] Loading mod: WolfHUD
+01:48:10 AM Lua: [BLT] Setting up mod: 	base
+01:48:10 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:48:10 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:48:10 AM Lua: [BLT] Setup...
+01:48:10 AM Lua: [BLT] Loading module: 	BLTLogs
+01:48:10 AM Lua: [BLT] Loading module: 	BLTModManager
+01:48:10 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:48:10 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:48:10 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:48:10 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:48:10 AM Lua: [BLT] Loading mods for state: table: 0x80ac6c80
+01:48:10 AM Lua: [BLT] Loading mod: base
+01:48:10 AM Lua: [BLT] Loading mod: WolfHUD
+01:48:10 AM Lua: [BLT] Setting up mod: 	base
+01:48:10 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:48:10 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:48:10 AM Lua: [BLT] Setup...
+01:48:10 AM Lua: [BLT] Loading module: 	BLTLogs
+01:48:10 AM Lua: [BLT] Loading module: 	BLTModManager
+01:48:10 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:48:10 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:48:10 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:48:10 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:48:10 AM Lua: [BLT] Loading mods for state: table: 0x262b55c0
+01:48:10 AM Lua: [BLT] Loading mod: base
+01:48:10 AM Lua: [BLT] Loading mod: WolfHUD
+01:48:10 AM Lua: [BLT] Setting up mod: 	base
+01:48:10 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:48:13 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:48:13 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=payday2blt - 1074
+01:48:13 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:48:13 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:48:13 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=payday2bltdll - 5161
+01:48:13 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:48:13 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:48:13 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=wolfhud - 5159
+01:48:13 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:48:13 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:48:13 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=wolfhud_textures - 5158
+01:48:13 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:48:13 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+01:48:13 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=fed_inv - 2851
+01:48:13 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+01:48:13 AM Lua: [Updates] Received update data for 'wolfhud_textures'
+01:48:13 AM Lua: [Updates] Comparing hash data:
+Server: f90cba4e248e477d91652d6057df675789db0e1748fc845c5f4132d706b5bd3a
+ Local: f90cba4e248e477d91652d6057df675789db0e1748fc845c5f4132d706b5bd3a
+01:48:13 AM Lua: [Updates] Received update data for 'payday2bltdll'
+01:48:13 AM Lua: [Updates] Comparing hash data:
+Server: 4f7bd43c1dd3d7ce856d3182e6f971980d0c59aeb3b17231eb9c2f3b5cf3a545
+ Local: 4f7bd43c1dd3d7ce856d3182e6f971980d0c59aeb3b17231eb9c2f3b5cf3a545
+01:48:13 AM Lua: [Updates] Received update data for 'wolfhud'
+01:48:13 AM Lua: [Updates] Comparing hash data:
+Server: nil
+ Local: 295820a39c47a01fc07ba788a62705a18a5df3743041c4e1f6122953a6fde913
+01:48:13 AM Lua: [Updates] Received update data for 'payday2blt'
+01:48:13 AM Lua: [Updates] Comparing hash data:
+Server: dd606e7e10e0d02d3527b6d38ca6f4d2aa58910d56d81753b16b808ae859244a
+ Local: dd606e7e10e0d02d3527b6d38ca6f4d2aa58910d56d81753b16b808ae859244a
+01:48:13 AM Lua: [Updates] Received update data for 'fed_inv'
+01:48:15 AM Lua: [Updates] Comparing hash data:
+Server: 59b28eff2e093eddfe0df3039ff6f936fb263a7034f6e4d424f29993e2567189
+ Local: 59b28eff2e093eddfe0df3039ff6f936fb263a7034f6e4d424f29993e2567189
+01:51:44 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:51:44 AM Lua: [BLT] Setup...
+01:51:44 AM Lua: [BLT] Loading module: 	BLTLogs
+01:51:44 AM Lua: [BLT] Loading module: 	BLTModManager
+01:51:44 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:51:44 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:51:44 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:51:44 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:51:44 AM Lua: [BLT] Loading mods for state: table: 0x46fbda80
+01:51:44 AM Lua: [BLT] Loading mod: base
+01:51:44 AM Lua: [BLT] Loading mod: WolfHUD
+01:51:44 AM Lua: [BLT] Setting up mod: 	base
+01:51:44 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:51:44 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:51:44 AM Lua: [BLT] Setup...
+01:51:44 AM Lua: [BLT] Loading module: 	BLTLogs
+01:51:44 AM Lua: [BLT] Loading module: 	BLTModManager
+01:51:44 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:51:44 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:51:44 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:51:44 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:51:44 AM Lua: [BLT] Loading mods for state: table: 0x16def040
+01:51:44 AM Lua: [BLT] Loading mod: base
+01:51:44 AM Lua: [BLT] Loading mod: WolfHUD
+01:51:44 AM Lua: [BLT] Setting up mod: 	base
+01:51:44 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:51:44 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:51:44 AM Lua: [BLT] Setup...
+01:51:44 AM Lua: [BLT] Loading module: 	BLTLogs
+01:51:44 AM Lua: [BLT] Loading module: 	BLTModManager
+01:51:44 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:51:44 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:51:44 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:51:44 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:51:44 AM Lua: [BLT] Loading mods for state: table: 0x76fa2540
+01:51:44 AM Lua: [BLT] Loading mod: base
+01:51:44 AM Lua: [BLT] Loading mod: WolfHUD
+01:51:44 AM Lua: [BLT] Setting up mod: 	base
+01:51:44 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:52:04 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+01:52:05 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+01:52:06 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Glass Cutter.
+01:53:38 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+01:53:39 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+01:53:40 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+01:53:41 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+01:53:42 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+01:53:43 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+01:53:43 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:53:43 AM Lua: [BLT] Setup...
+01:53:43 AM Lua: [BLT] Loading module: 	BLTLogs
+01:53:43 AM Lua: [BLT] Loading module: 	BLTModManager
+01:53:43 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:53:43 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:53:43 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:53:43 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:53:43 AM Lua: [BLT] Loading mods for state: table: 0x2be07160
+01:53:43 AM Lua: [BLT] Loading mod: base
+01:53:43 AM Lua: [BLT] Loading mod: WolfHUD
+01:53:43 AM Lua: [BLT] Setting up mod: 	base
+01:53:43 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:53:44 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:53:44 AM Lua: [BLT] Setup...
+01:53:44 AM Lua: [BLT] Loading module: 	BLTLogs
+01:53:44 AM Lua: [BLT] Loading module: 	BLTModManager
+01:53:44 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:53:44 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:53:44 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:53:44 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:53:44 AM Lua: [BLT] Loading mods for state: table: 0x46fcf5a0
+01:53:44 AM Lua: [BLT] Loading mod: base
+01:53:44 AM Lua: [BLT] Loading mod: WolfHUD
+01:53:44 AM Lua: [BLT] Setting up mod: 	base
+01:53:44 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:53:44 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:53:44 AM Lua: [BLT] Setup...
+01:53:44 AM Lua: [BLT] Loading module: 	BLTLogs
+01:53:44 AM Lua: [BLT] Loading module: 	BLTModManager
+01:53:44 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:53:44 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:53:44 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:53:44 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:53:44 AM Lua: [BLT] Loading mods for state: table: 0x5a8271e0
+01:53:44 AM Lua: [BLT] Loading mod: base
+01:53:44 AM Lua: [BLT] Loading mod: WolfHUD
+01:53:44 AM Lua: [BLT] Setting up mod: 	base
+01:53:44 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:53:56 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Glass Cutter.
+01:53:57 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+01:53:58 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+01:57:53 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+01:57:54 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+01:57:55 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+01:57:56 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+01:57:57 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+01:57:58 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+01:57:58 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:57:58 AM Lua: [BLT] Setup...
+01:57:58 AM Lua: [BLT] Loading module: 	BLTLogs
+01:57:58 AM Lua: [BLT] Loading module: 	BLTModManager
+01:57:58 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:57:58 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:57:58 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:57:58 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:57:58 AM Lua: [BLT] Loading mods for state: table: 0x5eb98600
+01:57:58 AM Lua: [BLT] Loading mod: base
+01:57:58 AM Lua: [BLT] Loading mod: WolfHUD
+01:57:58 AM Lua: [BLT] Setting up mod: 	base
+01:57:58 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:57:59 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:57:59 AM Lua: [BLT] Setup...
+01:57:59 AM Lua: [BLT] Loading module: 	BLTLogs
+01:57:59 AM Lua: [BLT] Loading module: 	BLTModManager
+01:57:59 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:57:59 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:57:59 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:57:59 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:57:59 AM Lua: [BLT] Loading mods for state: table: 0x6fa08900
+01:57:59 AM Lua: [BLT] Loading mod: base
+01:57:59 AM Lua: [BLT] Loading mod: WolfHUD
+01:57:59 AM Lua: [BLT] Setting up mod: 	base
+01:57:59 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:57:59 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+01:57:59 AM Lua: [BLT] Setup...
+01:57:59 AM Lua: [BLT] Loading module: 	BLTLogs
+01:57:59 AM Lua: [BLT] Loading module: 	BLTModManager
+01:57:59 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+01:57:59 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+01:57:59 AM Lua: [BLT] Loading module: 	BLTLocalization
+01:57:59 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+01:57:59 AM Lua: [BLT] Loading mods for state: table: 0x2cb28720
+01:57:59 AM Lua: [BLT] Loading mod: base
+01:57:59 AM Lua: [BLT] Loading mod: WolfHUD
+01:57:59 AM Lua: [BLT] Setting up mod: 	base
+01:57:59 AM Lua: [BLT] Setting up mod: 	WolfHUD
+01:58:11 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+01:58:12 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+01:58:13 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Glass Cutter.
+02:03:50 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+02:03:51 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+02:03:52 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+02:03:53 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+02:03:54 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+02:03:55 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+02:03:55 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:03:55 AM Lua: [BLT] Setup...
+02:03:55 AM Lua: [BLT] Loading module: 	BLTLogs
+02:03:55 AM Lua: [BLT] Loading module: 	BLTModManager
+02:03:55 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:03:55 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:03:55 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:03:55 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:03:55 AM Lua: [BLT] Loading mods for state: table: 0x2c4c44a0
+02:03:55 AM Lua: [BLT] Loading mod: base
+02:03:55 AM Lua: [BLT] Loading mod: WolfHUD
+02:03:55 AM Lua: [BLT] Setting up mod: 	base
+02:03:55 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:03:56 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:03:56 AM Lua: [BLT] Setup...
+02:03:56 AM Lua: [BLT] Loading module: 	BLTLogs
+02:03:56 AM Lua: [BLT] Loading module: 	BLTModManager
+02:03:56 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:03:56 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:03:56 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:03:56 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:03:56 AM Lua: [BLT] Loading mods for state: table: 0x2c449e20
+02:03:56 AM Lua: [BLT] Loading mod: base
+02:03:56 AM Lua: [BLT] Loading mod: WolfHUD
+02:03:56 AM Lua: [BLT] Setting up mod: 	base
+02:03:56 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:03:56 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:03:56 AM Lua: [BLT] Setup...
+02:03:56 AM Lua: [BLT] Loading module: 	BLTLogs
+02:03:56 AM Lua: [BLT] Loading module: 	BLTModManager
+02:03:56 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:03:56 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:03:56 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:03:56 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:03:56 AM Lua: [BLT] Loading mods for state: table: 0x58278c80
+02:03:56 AM Lua: [BLT] Loading mod: base
+02:03:56 AM Lua: [BLT] Loading mod: WolfHUD
+02:03:56 AM Lua: [BLT] Setting up mod: 	base
+02:03:56 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:04:07 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Doctor Bag.
+02:04:08 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+02:04:09 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+02:11:01 AM Lua: [1] Nylux: 6565
+02:13:18 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+02:13:19 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+02:13:20 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+02:13:21 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+02:13:22 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+02:13:23 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+02:13:24 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:13:24 AM Lua: [BLT] Setup...
+02:13:24 AM Lua: [BLT] Loading module: 	BLTLogs
+02:13:24 AM Lua: [BLT] Loading module: 	BLTModManager
+02:13:24 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:13:24 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:13:24 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:13:24 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:13:24 AM Lua: [BLT] Loading mods for state: table: 0x5ed5cfc0
+02:13:24 AM Lua: [BLT] Loading mod: base
+02:13:24 AM Lua: [BLT] Loading mod: WolfHUD
+02:13:24 AM Lua: [BLT] Setting up mod: 	base
+02:13:24 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:13:24 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:13:24 AM Lua: [BLT] Setup...
+02:13:24 AM Lua: [BLT] Loading module: 	BLTLogs
+02:13:24 AM Lua: [BLT] Loading module: 	BLTModManager
+02:13:24 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:13:24 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:13:24 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:13:24 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:13:24 AM Lua: [BLT] Loading mods for state: table: 0x6ac5fd20
+02:13:24 AM Lua: [BLT] Loading mod: base
+02:13:24 AM Lua: [BLT] Loading mod: WolfHUD
+02:13:24 AM Lua: [BLT] Setting up mod: 	base
+02:13:24 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:13:24 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:13:24 AM Lua: [BLT] Setup...
+02:13:24 AM Lua: [BLT] Loading module: 	BLTLogs
+02:13:24 AM Lua: [BLT] Loading module: 	BLTModManager
+02:13:24 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:13:24 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:13:24 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:13:24 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:13:24 AM Lua: [BLT] Loading mods for state: table: 0x521ffbe0
+02:13:24 AM Lua: [BLT] Loading mod: base
+02:13:24 AM Lua: [BLT] Loading mod: WolfHUD
+02:13:24 AM Lua: [BLT] Setting up mod: 	base
+02:13:24 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:13:38 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Glass Cutter.
+02:13:38 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+02:13:40 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+02:16:32 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+02:16:33 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+02:16:34 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+02:16:35 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+02:16:36 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+02:16:37 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+02:16:38 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:16:38 AM Lua: [BLT] Setup...
+02:16:38 AM Lua: [BLT] Loading module: 	BLTLogs
+02:16:38 AM Lua: [BLT] Loading module: 	BLTModManager
+02:16:38 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:16:38 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:16:38 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:16:38 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:16:38 AM Lua: [BLT] Loading mods for state: table: 0x33517440
+02:16:38 AM Lua: [BLT] Loading mod: base
+02:16:38 AM Lua: [BLT] Loading mod: WolfHUD
+02:16:38 AM Lua: [BLT] Setting up mod: 	base
+02:16:38 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:16:38 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:16:38 AM Lua: [BLT] Setup...
+02:16:38 AM Lua: [BLT] Loading module: 	BLTLogs
+02:16:38 AM Lua: [BLT] Loading module: 	BLTModManager
+02:16:38 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:16:38 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:16:38 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:16:38 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:16:38 AM Lua: [BLT] Loading mods for state: table: 0x71d5daa0
+02:16:38 AM Lua: [BLT] Loading mod: base
+02:16:38 AM Lua: [BLT] Loading mod: WolfHUD
+02:16:38 AM Lua: [BLT] Setting up mod: 	base
+02:16:38 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:16:39 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:16:39 AM Lua: [BLT] Setup...
+02:16:39 AM Lua: [BLT] Loading module: 	BLTLogs
+02:16:39 AM Lua: [BLT] Loading module: 	BLTModManager
+02:16:39 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:16:39 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:16:39 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:16:39 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:16:39 AM Lua: [BLT] Loading mods for state: table: 0x51f0ee40
+02:16:39 AM Lua: [BLT] Loading mod: base
+02:16:39 AM Lua: [BLT] Loading mod: WolfHUD
+02:16:39 AM Lua: [BLT] Setting up mod: 	base
+02:16:39 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:16:50 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Glass Cutter.
+02:16:51 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+02:16:53 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+02:25:26 AM Lua: [1] Nylux: 6709
+02:28:28 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+02:28:29 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+02:28:30 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+02:28:31 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+02:28:32 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+02:28:38 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:28:38 AM Lua: [BLT] Setup...
+02:28:38 AM Lua: [BLT] Loading module: 	BLTLogs
+02:28:38 AM Lua: [BLT] Loading module: 	BLTModManager
+02:28:38 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:28:38 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:28:38 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:28:38 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:28:38 AM Lua: [BLT] Loading mods for state: table: 0x3c5c7400
+02:28:38 AM Lua: [BLT] Loading mod: base
+02:28:38 AM Lua: [BLT] Loading mod: WolfHUD
+02:28:38 AM Lua: [BLT] Setting up mod: 	base
+02:28:38 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:28:38 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:28:38 AM Lua: [BLT] Setup...
+02:28:38 AM Lua: [BLT] Loading module: 	BLTLogs
+02:28:38 AM Lua: [BLT] Loading module: 	BLTModManager
+02:28:38 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:28:38 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:28:38 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:28:38 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:28:38 AM Lua: [BLT] Loading mods for state: table: 0x33543ba0
+02:28:38 AM Lua: [BLT] Loading mod: base
+02:28:38 AM Lua: [BLT] Loading mod: WolfHUD
+02:28:38 AM Lua: [BLT] Setting up mod: 	base
+02:28:38 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:28:39 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:28:39 AM Lua: [BLT] Setup...
+02:28:39 AM Lua: [BLT] Loading module: 	BLTLogs
+02:28:39 AM Lua: [BLT] Loading module: 	BLTModManager
+02:28:39 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:28:39 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:28:39 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:28:39 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:28:39 AM Lua: [BLT] Loading mods for state: table: 0x51d50600
+02:28:39 AM Lua: [BLT] Loading mod: base
+02:28:39 AM Lua: [BLT] Loading mod: WolfHUD
+02:28:39 AM Lua: [BLT] Setting up mod: 	base
+02:28:39 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:28:51 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Glass Cutter.
+02:28:52 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+02:28:53 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+02:30:42 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+02:30:43 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+02:30:44 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+02:30:45 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+02:30:46 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+02:30:47 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+02:30:48 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:30:48 AM Lua: [BLT] Setup...
+02:30:48 AM Lua: [BLT] Loading module: 	BLTLogs
+02:30:48 AM Lua: [BLT] Loading module: 	BLTModManager
+02:30:48 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:30:48 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:30:48 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:30:48 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:30:48 AM Lua: [BLT] Loading mods for state: table: 0x2c0e68a0
+02:30:48 AM Lua: [BLT] Loading mod: base
+02:30:48 AM Lua: [BLT] Loading mod: WolfHUD
+02:30:48 AM Lua: [BLT] Setting up mod: 	base
+02:30:48 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:30:48 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:30:48 AM Lua: [BLT] Setup...
+02:30:48 AM Lua: [BLT] Loading module: 	BLTLogs
+02:30:48 AM Lua: [BLT] Loading module: 	BLTModManager
+02:30:48 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:30:48 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:30:48 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:30:48 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:30:48 AM Lua: [BLT] Loading mods for state: table: 0x2b7400a0
+02:30:48 AM Lua: [BLT] Loading mod: base
+02:30:48 AM Lua: [BLT] Loading mod: WolfHUD
+02:30:48 AM Lua: [BLT] Setting up mod: 	base
+02:30:48 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:30:49 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:30:49 AM Lua: [BLT] Setup...
+02:30:49 AM Lua: [BLT] Loading module: 	BLTLogs
+02:30:49 AM Lua: [BLT] Loading module: 	BLTModManager
+02:30:49 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:30:49 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:30:49 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:30:49 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:30:49 AM Lua: [BLT] Loading mods for state: table: 0x521ffbe0
+02:30:49 AM Lua: [BLT] Loading mod: base
+02:30:49 AM Lua: [BLT] Loading mod: WolfHUD
+02:30:49 AM Lua: [BLT] Setting up mod: 	base
+02:30:49 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:31:00 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Glass Cutter.
+02:31:01 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+02:31:02 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+02:32:40 AM Lua: [1] SYSTEM: Restarting in 5 seconds.
+02:32:41 AM Lua: [1] SYSTEM: Restarting in 4 seconds.
+02:32:42 AM Lua: [1] SYSTEM: Restarting in 3 seconds.
+02:32:43 AM Lua: [1] SYSTEM: Restarting in 2 seconds.
+02:32:44 AM Lua: [1] SYSTEM: Restarting in 1 seconds.
+02:32:45 AM Lua: [1] SYSTEM: Restarting in 0 seconds.
+02:32:46 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:32:46 AM Lua: [BLT] Setup...
+02:32:46 AM Lua: [BLT] Loading module: 	BLTLogs
+02:32:46 AM Lua: [BLT] Loading module: 	BLTModManager
+02:32:46 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:32:46 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:32:46 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:32:46 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:32:46 AM Lua: [BLT] Loading mods for state: table: 0x34816d00
+02:32:46 AM Lua: [BLT] Loading mod: base
+02:32:46 AM Lua: [BLT] Loading mod: WolfHUD
+02:32:46 AM Lua: [BLT] Setting up mod: 	base
+02:32:46 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:32:47 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:32:47 AM Lua: [BLT] Setup...
+02:32:47 AM Lua: [BLT] Loading module: 	BLTLogs
+02:32:47 AM Lua: [BLT] Loading module: 	BLTModManager
+02:32:47 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:32:47 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:32:47 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:32:47 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:32:47 AM Lua: [BLT] Loading mods for state: table: 0x702e5200
+02:32:47 AM Lua: [BLT] Loading mod: base
+02:32:47 AM Lua: [BLT] Loading mod: WolfHUD
+02:32:47 AM Lua: [BLT] Setting up mod: 	base
+02:32:47 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:32:47 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:32:47 AM Lua: [BLT] Setup...
+02:32:47 AM Lua: [BLT] Loading module: 	BLTLogs
+02:32:47 AM Lua: [BLT] Loading module: 	BLTModManager
+02:32:47 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:32:47 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:32:47 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:32:47 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:32:47 AM Lua: [BLT] Loading mods for state: table: 0x5237f680
+02:32:47 AM Lua: [BLT] Loading mod: base
+02:32:47 AM Lua: [BLT] Loading mod: WolfHUD
+02:32:47 AM Lua: [BLT] Setting up mod: 	base
+02:32:47 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:32:58 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Glass Cutter.
+02:32:58 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Ladder.
+02:33:00 AM Lua: [1] SYSTEM: Fiji 失恋 unlocked asset: Body Bags.
+02:36:24 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:36:24 AM Lua: [BLT] Setup...
+02:36:24 AM Lua: [BLT] Loading module: 	BLTLogs
+02:36:24 AM Lua: [BLT] Loading module: 	BLTModManager
+02:36:24 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:36:24 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:36:24 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:36:24 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:36:24 AM Lua: [BLT] Loading mods for state: table: 0x2c520ba0
+02:36:24 AM Lua: [BLT] Loading mod: base
+02:36:24 AM Lua: [BLT] Loading mod: WolfHUD
+02:36:24 AM Lua: [BLT] Setting up mod: 	base
+02:36:24 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:36:24 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:36:24 AM Lua: [BLT] Setup...
+02:36:24 AM Lua: [BLT] Loading module: 	BLTLogs
+02:36:24 AM Lua: [BLT] Loading module: 	BLTModManager
+02:36:24 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:36:24 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:36:24 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:36:24 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:36:24 AM Lua: [BLT] Loading mods for state: table: 0x336bb4e0
+02:36:24 AM Lua: [BLT] Loading mod: base
+02:36:24 AM Lua: [BLT] Loading mod: WolfHUD
+02:36:24 AM Lua: [BLT] Setting up mod: 	base
+02:36:24 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:36:25 AM Log:  (..\src\InitiateState.cpp:659) Initiating Hook
+02:36:25 AM Lua: [BLT] Setup...
+02:36:25 AM Lua: [BLT] Loading module: 	BLTLogs
+02:36:25 AM Lua: [BLT] Loading module: 	BLTModManager
+02:36:25 AM Lua: [BLT] Loading module: 	BLTKeybindsManager
+02:36:25 AM Lua: [BLT] Loading module: 	BLTPersistScripts
+02:36:25 AM Lua: [BLT] Loading module: 	BLTLocalization
+02:36:25 AM Lua: [BLT] Cleaning logs folder, lifetime 1 day(s)
+02:36:25 AM Lua: [BLT] Loading mods for state: table: 0x521ffbe0
+02:36:25 AM Lua: [BLT] Loading mod: base
+02:36:25 AM Lua: [BLT] Loading mod: WolfHUD
+02:36:25 AM Lua: [BLT] Setting up mod: 	base
+02:36:25 AM Lua: [BLT] Setting up mod: 	WolfHUD
+02:36:28 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+02:36:28 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=payday2blt - 2580
+02:36:28 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+02:36:28 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+02:36:28 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=payday2bltdll - 4803
+02:36:28 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+02:36:28 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+02:36:28 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=wolfhud - 1126
+02:36:28 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+02:36:28 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+02:36:28 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=wolfhud_textures - 1124
+02:36:28 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+02:36:28 AM Log:  (..\src\InitiateState.cpp:490) Incoming HTTP Request/Request
+02:36:28 AM Log:  (..\src\InitiateState.cpp:504) http://api.paydaymods.com/updates/retrieve/?mod[0]=fed_inv - 2900
+02:36:28 AM Log:  (..\src\http\http.cpp:144) Launching Async HTTP Thread
+02:36:28 AM Lua: [Updates] Received update data for 'wolfhud'
+02:36:28 AM Lua: [Updates] Comparing hash data:
+Server: nil
+ Local: 295820a39c47a01fc07ba788a62705a18a5df3743041c4e1f6122953a6fde913
+02:36:28 AM Lua: [Updates] Received update data for 'payday2blt'
+02:36:28 AM Lua: [Updates] Comparing hash data:
+Server: dd606e7e10e0d02d3527b6d38ca6f4d2aa58910d56d81753b16b808ae859244a
+ Local: dd606e7e10e0d02d3527b6d38ca6f4d2aa58910d56d81753b16b808ae859244a
+02:36:28 AM Lua: [Updates] Received update data for 'payday2bltdll'
+02:36:28 AM Lua: [Updates] Comparing hash data:
+Server: 4f7bd43c1dd3d7ce856d3182e6f971980d0c59aeb3b17231eb9c2f3b5cf3a545
+ Local: 4f7bd43c1dd3d7ce856d3182e6f971980d0c59aeb3b17231eb9c2f3b5cf3a545
+02:36:28 AM Lua: [Updates] Received update data for 'wolfhud_textures'
+02:36:28 AM Lua: [Updates] Comparing hash data:
+Server: f90cba4e248e477d91652d6057df675789db0e1748fc845c5f4132d706b5bd3a
+ Local: f90cba4e248e477d91652d6057df675789db0e1748fc845c5f4132d706b5bd3a
+02:36:28 AM Lua: [Updates] Received update data for 'fed_inv'
+02:36:30 AM Lua: [Updates] Comparing hash data:
+Server: 59b28eff2e093eddfe0df3039ff6f936fb263a7034f6e4d424f29993e2567189
+ Local: 59b28eff2e093eddfe0df3039ff6f936fb263a7034f6e4d424f29993e2567189
+02:36:44 AM Lua: [1] SYSTEM: Fiji 失恋 left.
+02:36:51 AM Log:  (..\src\http\http.cpp:49) CURL CLOSED

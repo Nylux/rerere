@@ -1,0 +1,1 @@
+{"keybinds":[],"mods":{"base":{"enabled":true,"updates":{"payday2bltdll":true,"payday2blt":true},"safe":false},"WolfHUD":{"enabled":true,"updates":{"wolfhud_textures":true,"fed_inv":true,"wolfhud":true},"safe":true}},"language":"en"}
